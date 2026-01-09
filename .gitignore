@@ -1,0 +1,19 @@
+# System files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Backup directory
+backup_pre_clone/
+
+# IDE settings
+.vscode/
+.idea/
